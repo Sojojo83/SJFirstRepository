@@ -1,2 +1,3 @@
 # SJFirstRepository
-Test
+
+Hello, this is my first repository. 
