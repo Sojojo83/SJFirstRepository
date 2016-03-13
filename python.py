@@ -7,3 +7,4 @@ y = np.sin(x)
 plt.plot(x,y)
 plt.show()
 
+iash shit
